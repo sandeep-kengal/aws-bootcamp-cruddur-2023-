@@ -1,1 +1,9 @@
-aws/jason
+export HONEYCOMB_API_KEY="ZE7K7pLeuUiBNQvAxKZ4TB"
+
+
+gp env HONEYCOMB_API_KEY="ZE7K7pLeuUiBNQvAxKZ4TB"
+
+
+export HONEYCOMB_SERVICE_NAME="Cruddur"
+
+gp env HONEYCOMB_SERVICE_NAME="Cruddur"

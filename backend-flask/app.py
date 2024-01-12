@@ -13,6 +13,7 @@ from services.messages import *
 from services.create_message import *
 from services.show_activity import *
 
+app = Flask(__name__)
 
 frontend = os.getenv('FRONTEND_URL')
 backend = os.getenv('BACKEND_URL')
